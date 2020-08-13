@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app "React.js"). Check out the preview page [here](https://sliceline-aa686.web.app/ "Sliceline").
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app "React.js"). Check out the preview page [here]().
 
 # Pizzaria Pizza Shop
 This application utilizes React, CSS grids, and Firebase hosting to receive and email orders to the user.
